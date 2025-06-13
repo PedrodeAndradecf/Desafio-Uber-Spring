@@ -1,7 +1,7 @@
 # Desafio-Uber-Spring
 
 
-Este projeto foi desenvolvido como parte dos meus estudos de backend, baseado no desafio técnico da Uber.
+Este projeto foi desenvolvido como parte dos meus estudos de backend, baseado no desafio técnico da Uber.  https://github.com/uber-archive/coding-challenge-tools?tab=readme-ov-file#readme
 
 O objetivo do desafio é criar uma API capaz de processar e responder consultas sobre uma coleção de dados, como se fosse um sistema de busca. No meu caso, optei por trabalhar com dados de filmes, onde é possível realizar buscas inteligentes com sugestões baseadas no conteúdo inserido.
 
